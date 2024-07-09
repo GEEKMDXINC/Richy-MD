@@ -86,6 +86,10 @@ Make Sure Run this on a Heroku Teams Not Personal Heroku, I recommed using it Ec
 - Go to <b>Deployments</b> and wait for deplyment to complete.
 - and you're good to go.
   <br>
+
+####<p align="center"><a href="https://app.render.com/auth/signup"> <img src="https://img.shields.io/badge/renderaccount-black?style=for-the-badge&logo=render" width="220" height="38.45"/></a></p>
+<br>
+
 #### Thanks to 
 [EDNUT FOR DATA BASE](HTTPS://github.com/Ednut001)
   
