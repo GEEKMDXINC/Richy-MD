@@ -87,7 +87,8 @@ Make Sure Run this on a Heroku Teams Not Personal Heroku, I recommed using it Ec
 - and you're good to go.
   <br>
 
-####<p align="center"><a href="https://app.render.com/auth/signup"> <img src="https://img.shields.io/badge/renderaccount-black?style=for-the-badge&logo=render" width="220" height="38.45"/></a></p>
+#### Deploy to render 
+<p align="center"><a href="https://render.com"> <img src="https://img.shields.io/badge/renderaccount-black?style=for-the-badge&logo=render" width="220" height="38.45"/></a></p>
 <br>
 
 #### Thanks to 
