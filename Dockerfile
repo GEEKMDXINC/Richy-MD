@@ -1,13 +1,13 @@
-FROM quay.io/taira_makino/taira_tech:latest
+FROM quay.io/sampandey001/secktor
 
-RUN git clone https://github.com/GEEKMD099/Richy-md /root/Anonphoenix007
+RUN git clone https://github.com/GEEKMDXINC/Richy-MD /root/GEEKMDXINC 
 
 # Clear npm cache and remove node_modules directories
 RUN npm cache clean --force
-RUN rm -rf /root/Anonphoenix007/node_modules
+RUN rm -rf /root/GEEKMDXINC/node_modules
 
 # Install dependencies
-WORKDIR /root/Anonphoenix007
+WORKDIR /root/GEEKMDXINC 
 RUN npm install
 
 # Add additional Steps To Run...
