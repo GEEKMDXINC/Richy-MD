@@ -33,6 +33,7 @@ RICHY-MD- Simple Multi Device whatsapp bot.
 2. Get Session ID (PAIRING)
     <br>
 <a href='https://richy-sessions-pair-1.onrender.com' target="_blank"><img alt='SESSION ID' src='https://img.shields.io/badge/Session_id-100000?style=for-the-badge&logo=scan&logoColor=red&labelColor=green&color=black'/></a>
+<br>
 
 
 
